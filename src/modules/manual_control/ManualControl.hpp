@@ -33,7 +33,7 @@
 
 #pragma once
 
-#include <drivers/drv_hrt.h>
+#include <dri vers/drv_hrt.h>
 #include <lib/hysteresis/hysteresis.h>
 #include <lib/perf/perf_counter.h>
 #include <px4_platform_common/defines.h>
